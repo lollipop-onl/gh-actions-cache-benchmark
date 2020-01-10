@@ -6,8 +6,11 @@
   "author": "lollipop-onl <lollipop@simoochee.net>",
   "license": "MIT",
   "dependencies": {
+    "@angular/core": "^8.2.14",
     "electron": "^7.1.8",
     "lodash": "^4.17.15",
+    "next": "^9.1.7",
+    "nuxt": "^2.11.0",
     "parcel-bundler": "^1.12.4",
     "react": "^16.12.0",
     "three": "^0.112.1",
