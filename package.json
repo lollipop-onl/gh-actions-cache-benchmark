@@ -1,0 +1,17 @@
+{
+  "name": "gh-actions-cache-benchmark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lollipop-onl/gh-actions-cache-benchmark.git",
+  "author": "lollipop-onl <lollipop@simoochee.net>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^7.1.8",
+    "lodash": "^4.17.15",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "three": "^0.112.1",
+    "typescript": "^3.7.4",
+    "vue": "^2.6.11"
+  }
+}
